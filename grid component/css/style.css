@@ -1,0 +1,44 @@
+
+body{
+  font-family: "Karla";
+  font-weight: 400, 700;
+}
+.main-head{
+  color: #70dbdb;
+  font-weight: 700;
+  line-height: 50px;
+
+}
+.bright{color: hsl(71, 73%, 54%);
+font-weight: 400;
+font-size: 2rem;
+line-height:50px;
+}
+.grey{
+  color: #8f8f8f;
+  font-size: 1.5rem;
+}
+.feature-box{
+  padding: 30px 40px;
+  font-size: 16px;
+  text-decoration-color: #8f8f8f;
+
+}
+.second{
+  background-color:#2eb8b8;
+  color:#fff;
+}
+.btn-suceess{
+  color: hsl(71, 73%, 54%);
+}
+.btn{
+  margin: 20px;
+}
+.third{
+  background-color: #70dbdb;
+  color: #fff;
+  line-height: 1rem;
+}
+.h2-height{
+  line-height: 2rem;
+}
